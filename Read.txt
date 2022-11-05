@@ -1,0 +1,9 @@
+Hello,
+I am Abdullah. I create a program or simple game,
+which name is Snake-Water-Gun.
+This is the first game, that I implement with python.
+The interesting part is, the python is so amazing.
+Python is more easier than other language.
+Undoubtedly I love it so much.
+Best Regards,
+Thank you
